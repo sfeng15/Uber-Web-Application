@@ -1,0 +1,11 @@
+com/ross/spring/uber/domain/UnitFault.class
+com/ross/spring/uber/service/impl/LocationServiceImpl.class
+com/ross/spring/uber/domain/UnitInfo.class
+com/ross/spring/uber/domain/Location$VehicleMovementType.class
+com/ross/spring/uber/rest/FleetBulkUploadRestController.class
+com/ross/spring/uber/domain/LocationRepository.class
+com/ross/spring/uber/domain/Location$GpsStatus.class
+com/ross/spring/uber/FleetLocationServiceApplication.class
+com/ross/spring/uber/domain/FaultCode.class
+com/ross/spring/uber/service/LocationService.class
+com/ross/spring/uber/domain/Location.class

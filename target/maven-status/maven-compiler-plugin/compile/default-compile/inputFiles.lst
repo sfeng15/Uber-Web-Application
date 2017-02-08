@@ -1,0 +1,9 @@
+/home/vagrant/workspace/week2/fleet-location-service/src/main/java/com/ross/spring/uber/service/impl/LocationServiceImpl.java
+/home/vagrant/workspace/week2/fleet-location-service/src/main/java/com/ross/spring/uber/FleetLocationServiceApplication.java
+/home/vagrant/workspace/week2/fleet-location-service/src/main/java/com/ross/spring/uber/domain/UnitFault.java
+/home/vagrant/workspace/week2/fleet-location-service/src/main/java/com/ross/spring/uber/rest/FleetBulkUploadRestController.java
+/home/vagrant/workspace/week2/fleet-location-service/src/main/java/com/ross/spring/uber/domain/FaultCode.java
+/home/vagrant/workspace/week2/fleet-location-service/src/main/java/com/ross/spring/uber/domain/Location.java
+/home/vagrant/workspace/week2/fleet-location-service/src/main/java/com/ross/spring/uber/domain/LocationRepository.java
+/home/vagrant/workspace/week2/fleet-location-service/src/main/java/com/ross/spring/uber/domain/UnitInfo.java
+/home/vagrant/workspace/week2/fleet-location-service/src/main/java/com/ross/spring/uber/service/LocationService.java
